@@ -11,7 +11,7 @@ These are the foundational workhorses of any business report, designed to track 
 column charts for time periods and horizontal bar charts when category names are long.<br>
 <ins>Line & Area Charts</ins>: Ideal for displaying continuous data and tracking trends or seasonality over time.<br>
 
-<ins>Pie & Donut Charts</ins: Best reserved for a very small number of categories (2 to 5 max) to show percentage market shares or structural distributions. Native customisation supports centering summary numbers directly inside the donut hole.<br>
+<ins>Pie & Donut Charts</ins>: Best reserved for a very small number of categories (2 to 5 max) to show percentage market shares or structural distributions. Native customisation supports centering summary numbers directly inside the donut hole.<br>
 <ins>Treemaps</ins>: Renders hierarchical or categorized data as a series of nested, proportional rectangles. A larger, darker rectangle represents a higher metric weight.<br>
 
 <ins>Funnel Charts</ins>: Visualises sequential, linear processes. They are the go-to choice for mapping sales pipeline progression and user conversion stages.<br>
